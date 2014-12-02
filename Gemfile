@@ -16,3 +16,5 @@ end
 
 gem 'pry', group: [:development, :test]
 gem 'rspec-rails', '~> 3.0', group: [:development, :test]
+
+gem 'gems'
